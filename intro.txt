@@ -1,2 +1,3 @@
 this is my content
 this is my newfeature from branch feature1
+this is my newfeature2 from branch feature1
